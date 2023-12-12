@@ -2,3 +2,5 @@
 * data description: Date, Volume, High, Low, Closing Price for NASDAQ, S&P500, NYSE companies
 
 * CNN_LSTM_prediction code by: https://www.kaggle.com/code/aadhityaa/stock-market-prediction-using-cnn-lstm
+
+* Analysis code by: https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
